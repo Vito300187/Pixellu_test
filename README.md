@@ -1,4 +1,4 @@
-A test task from the Pixel company
+A test task from the Pixellu company
 
 - Set up a project to work with
 - Create PO and methods to work with
